@@ -1,8 +1,8 @@
 ![Player Sans Mono sample image](assets/player-sans-mono.png)
 
 
-Player Sans Mono (pre-release 2021-08-21)
-=========================================
+Player Sans Mono
+================
 
 An open-source/libre typeface family designed for video game developers.
 
