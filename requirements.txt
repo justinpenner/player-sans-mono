@@ -1,0 +1,3 @@
+fontmake>=2.4
+fontbakery>=0.8
+gftools[qa]>=0.7

@@ -1,0 +1,13 @@
+sources:
+  - PlayerSansMono.glyphs
+axisOrder:
+  - wght
+  - ital
+familyName: "Player Sans Mono"
+buildVariable: false
+autohintTTF: false
+googleFonts: true
+category:
+  - SANS_SERIF
+  - DISPLAY
+  - MONOSPACE
